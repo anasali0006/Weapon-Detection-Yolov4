@@ -8,3 +8,10 @@ Special thanks to [Quang Neguyeng's Article](https://towardsdatascience.com/yolo
 The dataset which is used for the training of the Weapons Detection Model can be downloaded from [here](https://drive.google.com/file/d/15L4KCo61a34GdWZLCk-du-JFx-KHCTBz/view?usp=sharing). A lot of effort has been put to collect and annotate good quality data from various internet sources. There are total of 5,648 images of pistols inhere. We have tried to include pistols from as much scenarios as possible. A small glimpse of the dataset is given. 
 
 
+![image](https://user-images.githubusercontent.com/61320147/115640097-9ac00d00-a32f-11eb-9b80-f4ff69435ff1.png)
+![image](https://user-images.githubusercontent.com/61320147/115640118-a6133880-a32f-11eb-90a0-802fbaaba68f.png)
+![image](https://user-images.githubusercontent.com/61320147/115640125-a9a6bf80-a32f-11eb-86f6-ec679831453f.png)
+![image](https://user-images.githubusercontent.com/61320147/115640162-b9260880-a32f-11eb-8048-5058b54fb091.png)
+![image](https://user-images.githubusercontent.com/61320147/115640183-c4793400-a32f-11eb-8108-375c37d29e01.png)
+
+The cfg file which is used in the training of Yolov4 for this case has also been shared. Please note that in the config file classes=2 as I have two classes, background and handgun. 
