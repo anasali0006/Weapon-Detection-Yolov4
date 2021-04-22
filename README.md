@@ -1,5 +1,5 @@
 # Weapon Detection using YOLO v4. 
-This repository contains the code for the training of Yolov4 Model for the detection of weapons.
+This project is done to train a YOLOv4 model for the detection of handguns. The aim of the project is to develop state-of-the-art automatic weapon detection system which can be deployed using the cameras and embedded device like Jetson Nano. This will be a step forward towards 'Smart Cities' where crime will be reported to the Law Enforcements effectively without any time delay. 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anasali0006/Weapon-Detection-Yolov4/blob/main/Yolov4_training.ipynb)
 
