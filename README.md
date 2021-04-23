@@ -14,4 +14,4 @@ The dataset which is used for the training of the Weapons Detection Model can be
 ![image](https://user-images.githubusercontent.com/61320147/115640162-b9260880-a32f-11eb-8048-5058b54fb091.png)
 ![image](https://user-images.githubusercontent.com/61320147/115640183-c4793400-a32f-11eb-8108-375c37d29e01.png)
 
-The cfg file which is used in the training of Yolov4 for this case has also been shared. Please note that in the config file classes=2 as I have two classes, background and handgun. 
+
